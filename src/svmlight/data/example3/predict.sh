@@ -1,2 +1,2 @@
 #!/bin/bash
-../../svm_classify test.dat model predictions
+../../svm_classify $1 $2.model predictions
